@@ -1,0 +1,14 @@
+#include "resource.h"
+
+IDB_BACKGROUND BITMAP "background.bmp"
+IDB_MENUBACKGROUND BITMAP "menubackground.bmp"
+IDB_PLAYBUTTON BITMAP "playbutton.bmp"
+IDB_PLAYTEXT BITMAP "playtext.bmp"
+IDB_OPTIONTEXT BITMAP "optionstext.bmp"
+IDB_OPTIONBUTTON BITMAP "optionsbutton.bmp"
+IDB_EXITTEXT BITMAP "exittext.bmp"
+IDB_EXITBUTTON BITMAP "exitbutton.bmp"
+IDB_ROCKET BITMAP "rocket.bmp"
+
+
+
